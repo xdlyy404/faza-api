@@ -1,0 +1,27 @@
+{
+  "name": "faza-api",
+  "version": "1.0.2",
+  "description": "YoNdakTauKokTanyaSaya",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "faza-api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdlyy404/faza-api.git"
+  },
+  "author": "fadlyid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xdlyy404/faza-api/issues"
+  },
+  "homepage": "https://github.com/xdlyy404/faza-api#readme"
+}
